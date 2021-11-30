@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Hirab Abdourazak
 
 #### Your section leader's name
 
-TODO
+Hirab Abdourazak
 
 #### Project title
 
-TODO
+The Abandoned House 
 
 ***
 
@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+I have created the story plot, and what the choices will be. This is the foundation of our code.
 
 #### What have you not done for your project yet?
 
-TODO
+We have not started the code for our project.
 
 #### What problems, if any, have you encountered?
 
-TODO
+The only issue is time management, and being able to make this code before the due date.
